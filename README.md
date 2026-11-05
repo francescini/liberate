@@ -1,6 +1,8 @@
 # liberate
 AI Agent Threat and Safeguard assessment
 
+> **Related:** Wiser Human also runs the [Agent Escalation Line](https://github.com/wiser-human/agent-escalation-line), a beta safety service AI agents can escalate to when their task conflicts with their rules. If you deploy agents, it is one safeguard you can add in a few minutes.
+
 # AI Risk Analyzer – Phase 1
 
 ## 1  Project goal
